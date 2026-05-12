@@ -1,0 +1,31 @@
+who_region,country_region,confirmed,rank
+Africa,South Africa,452529,1
+Africa,Nigeria,41180,2
+Africa,Ghana,33624,3
+Africa,Algeria,27973,4
+Africa,Kenya,17975,5
+Americas,US,4290259,1
+Americas,Brazil,2442375,2
+Americas,Mexico,395489,3
+Americas,Peru,389717,4
+Americas,Chile,347923,5
+Eastern Mediterranean,Iran,293606,1
+Eastern Mediterranean,Pakistan,274289,2
+Eastern Mediterranean,Saudi Arabia,268934,3
+Eastern Mediterranean,Iraq,112585,4
+Eastern Mediterranean,Qatar,109597,5
+Europe,Russia,816680,1
+Europe,United Kingdom,301708,2
+Europe,Spain,272421,3
+Europe,Italy,246286,4
+Europe,Turkey,227019,5
+South-East Asia,India,1480073,1
+South-East Asia,Bangladesh,226225,2
+South-East Asia,Indonesia,100303,3
+South-East Asia,Nepal,18752,4
+South-East Asia,Maldives,3369,5
+Western Pacific,China,86783,1
+Western Pacific,Philippines,82040,2
+Western Pacific,Singapore,50838,3
+Western Pacific,Japan,31142,4
+Western Pacific,Australia,15303,5
